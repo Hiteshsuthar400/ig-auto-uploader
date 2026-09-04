@@ -1,0 +1,12 @@
+# Passwords and API keys
+.env
+credentials.json
+token.json
+
+# Python cache and virtual environments
+__pycache__/
+venv/
+env/
+
+# Temporary video files
+*.mp4
