@@ -1,0 +1,7 @@
+# Instagram Credentials
+IG_USERNAME=your_testing_account_username
+IG_PASSWORD=your_testing_account_password
+
+# API Keys and IDs
+GEMINI_API_KEY=your_gemini_api_key
+DRIVE_FOLDER_ID=your_google_drive_folder_id
